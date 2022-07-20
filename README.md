@@ -14,9 +14,9 @@ The project is very basic and I've used it as my introduction to using react. Be
 - Context (useContext hook)
 - API Requests (GET, POST, PUT, DELETE) with json server
 
-'npm run dev' in the terminal will launch the project.
-'npm start' for just the front end
-'npm run server' for just the back end
+'npm run dev' in the terminal will launch the project.<br />
+'npm start' for just the front end<br />
+'npm run server' for just the back end<br />
 
 client runs on 'http://localhost/3000"
 
