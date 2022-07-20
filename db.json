@@ -1,0 +1,19 @@
+{
+  "feedback": [
+    {
+      "id": 1,
+      "rating": 10,
+      "text": "This feedback website is amazing."
+    },
+    {
+      "text": "The websites pretty great, seems like the developer knows what they're doing..",
+      "rating": 8,
+      "id": 2
+    },
+    {
+      "text": "This website sucks and so does the developer!",
+      "rating": 1,
+      "id": 3
+    }
+  ]
+}
